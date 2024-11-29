@@ -6,7 +6,7 @@ Okay, so, first off, as any good tutorial should, lets start off with the requir
 # Tutorial
 After you're done with the requirements, start by moving the boiii.exe into the "t7_full_game" folder. Then, go to the location of your fitgirl bo3, (which by default, is in C:\Games\Call of Duty - Black Ops 3), copy all of the files/folders listed below and put them in your "t7_full_game" folder. Any file/folder that is NOT listed, do NOT copy into the folder. 
 
-video folder
+video folder\n
 zone folder
 unins000.dat (opt)
 unins000.exe (opt)
