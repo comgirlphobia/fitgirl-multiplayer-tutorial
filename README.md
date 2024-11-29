@@ -27,6 +27,8 @@ After you're done with the requirements, start by moving the boiii.exe into the 
 Once done, make sure to launch the game through boiii.exe, (don't mind the "couldn't locate" errors, not sure why that happens) and run it as an administrator. Once it's open, just press play, and wait for bo3 to open, it can take a bit sometimes.
 # FAQ
 * My game is crashing after the console loads up, and bo3 opens, what do I do?
+
 Well, what fixed it for me was adding the bo3 exe & the boiii.exe into my exceptions in bitdefender, this may be the issue with any antivirus, so make sure to turn them off, and also add exceptions, to prevent any loss, or issues.
 * Steam License Error
+
 Add a text file in the directory called "steamappid", and then put "311210" in it.
