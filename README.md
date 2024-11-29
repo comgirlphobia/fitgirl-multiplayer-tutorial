@@ -5,8 +5,9 @@ Before we start, yes, you can scan the files in the repo (obviously), I will als
 Okay, so, first off, as any good tutorial should, lets start off with the requirements. You'll need, the fitgirl version of bo3, which if you for some reason do not have, it can be downloaded <a href="https://fitgirl-repacks.site/call-of-duty-black-ops-3/">here</a>. You also need boiii client which I have provided in the repo, if you don't trust my exe, here is a <a href="https://github.com/Ezz-lol/boiii-free/releases/tag/v1.0.5">direct link</a> to it. The last 2 things you need are Steam, and the full game/update for bo3 (download it, and then start the tutorial), which I have also provided in this repo. 
 # Tutorial
 After you're done with the requirements, start by moving the boiii.exe into the "t7_full_game" folder. Then, go to the location of your fitgirl bo3, (which by default, is in C:\Games\Call of Duty - Black Ops 3), copy all of the files/folders listed below and put them in your "t7_full_game" folder. Any file/folder that is NOT listed, do NOT copy into the folder. 
-video folder
-zone folder
+
+* video folder
+* zone folder
 unins000.dat (opt)
 unins000.exe (opt)
 SmartSteamEmu.ini
